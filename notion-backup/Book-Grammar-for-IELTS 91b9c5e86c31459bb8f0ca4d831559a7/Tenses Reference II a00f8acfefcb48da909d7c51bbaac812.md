@@ -1,4 +1,4 @@
-# TensesReferenceII
+# Tenses Reference II
 
 Staring page: **11**
 
@@ -44,7 +44,7 @@ Continuing past actions actions happening at the same time as another event.
 
 **Present perfect continuous**
 
-1- Actions that started in the past and are contiuning now
+1- Actions that started in the past and are continuing now
 
 > My best friend has been learning French since January.
 > 
@@ -93,8 +93,32 @@ Past perfect continuous
 
 Practice exercises:
 
-Decie on the correct tense (present continuous, past continuous or present perfect continuous)
+Decide on the correct tense (present continuous, past continuous or present perfect continuous)
 
-1- What _____ (do)? You look exhausted!
+1- What have you been doing () (do)? You look exhausted! ☑️
 
-Tense:______ Rule number:____
+Tense: Present perfect continuous Rule number: 2
+
+2- Can you help me with my homework?,No I 'm watching TV ☑️
+
+Tense:Present continuous Rule number:1
+
+3- The number of people taking up extreme sports has been incresing (increasing) since the early 1990s. ☑️
+
+Tense:Present perfect continuous Rule number:1 
+
+4- Last month I was having (have) acting lessons but I had to stop when I lost my voice ⚠️
+
+Tense:Past continuous Rule number:3
+
+5-They were walking (walk) in the countryside when suddenly it started to rain ☑️
+
+Tense:Past continuos  Rule number:1
+
+6- I don t like the book I am reading (read) at the moment. ⚠️
+
+Tense:Present continuous- Rule number:~~1~~ 3
+
+> Continuous verb are usually **active** verbs (verb such as *to run*) that refer to an action
+**Stative** verbs (such as to know) refer to a state, and are usually used in simple tense ex: I *want a new bike* not *I am wanting a new bike* as to *want* is a state, not an action
+>

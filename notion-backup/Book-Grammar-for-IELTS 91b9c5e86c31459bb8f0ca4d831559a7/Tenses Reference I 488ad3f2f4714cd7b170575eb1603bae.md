@@ -1,4 +1,4 @@
-# TensesReferenceI
+# Tenses Reference I
 
 Exercise 1
 
@@ -88,4 +88,4 @@ Practice exercises
 
 Tense: Past simple: Rule: 3
 
-[LessonTwo](TensesReferenceI%20488ad3f2f4714cd7b170575eb1603bae/LessonTwo%202c95978fe91d4914b63acfa32a437b36.md)
+[LessonTwo](Tenses%20Reference%20I%20488ad3f2f4714cd7b170575eb1603bae/LessonTwo%202c95978fe91d4914b63acfa32a437b36.md)
