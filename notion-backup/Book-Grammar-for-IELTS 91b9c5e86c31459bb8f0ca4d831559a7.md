@@ -2,7 +2,7 @@
 
 Created: September 1, 2022 3:52 PM
 Date: September 1, 2022
-Last Edited Time: September 11, 2022 10:17 AM
+Last Edited Time: September 11, 2022 10:18 AM
 Status: Studying
 Tags: Grammar-For-IELTS, IELTS
 Type: Books
@@ -16,3 +16,5 @@ Book Grammar for IELTs
 [2-FreeTime-Part-I](https://www.notion.so/2-FreeTime-Part-I-26761918aaa148eb85aad81cc29ca635) 
 
 [Day Three](https://www.notion.so/Day-Three-a7cbcd1c133c42b990aadabc79bcf570)
+
+[Day three](Book-Grammar-for-IELTS%2091b9c5e86c31459bb8f0ca4d831559a7/Day%20three%202c95978fe91d4914b63acfa32a437b36.md)
