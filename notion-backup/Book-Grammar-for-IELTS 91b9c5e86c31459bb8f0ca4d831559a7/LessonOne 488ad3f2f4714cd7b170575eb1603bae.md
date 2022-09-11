@@ -1,4 +1,4 @@
-# DayOne
+# LessonOne
 
 Exercise 1
 
