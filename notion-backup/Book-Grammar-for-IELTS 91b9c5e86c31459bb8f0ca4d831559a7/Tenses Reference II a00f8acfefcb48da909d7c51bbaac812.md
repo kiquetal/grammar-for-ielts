@@ -76,7 +76,7 @@ Past continuous
 | + | - | ? |
 | --- | --- | --- |
 | I was watching | I was not watching | Was I watching? |
-| He/she/it is watching | He/she/it wasn’t watching | Was she/he/it watching? |
+| He/she/it was watching | He/she/it wasn’t watching | Was she/he/it watching? |
 | we were watching | We were watching | Were we watching? |
 | you were watching | you weren’t watching | Were you watching? |
 | they were watching | they weren’t watching | Were they watching? |
@@ -119,6 +119,29 @@ Tense:Past continuos  Rule number:1
 
 Tense:Present continuous- Rule number:~~1~~ 3
 
-> Continuous verb are usually **active** verbs (verb such as *to run*) that refer to an action
-**Stative** verbs (such as to know) refer to a state, and are usually used in simple tense ex: I *want a new bike* not *I am wanting a new bike* as to *want* is a state, not an action
+> Continuous verbs are usually **active** verbs (verb such as *to run*) that refer to an action
+**Stative** verbs (such as to know) refer to a state, and are usually used in simple tense ex: I *want a new bike* not *I am wanting a new bike* as to *want* is a state, not an action.
+> 
+
+Some verbs such as to see have both an active and stative meaning.
+
+Look at the following sentences 1-5 and decide if the main verbs should be in the present
+continuous or the present simple.
+1- I am not agreeing / [I don't agree] that going to the cinema is better than watching films on TV. ☑️
+2- I have / [I am having] a great time in Paris at the moment, (meaning = enjoy) ☑️
+3- [I like]/ I am liking studying Spanish in my free time ☑️
+
+4-[Do you mind] / Are you minding if I sit here? ☑️
+
+5- I think/ [I'm thinking] about learning to sail next year ☑️
+
+Underline the examples of continuous tenses in the following passage from Reading text. the complete the summary below using continuous verbs from the text.
+
+The amount of leisure time available to people has been increasing since the early twentieth century when machines started to be invented to do many labor-intensive tasks both at work and at the home. Previously, people were spending many more hours doing basic menial tasks and as a result, had less time available for hobbies and activities. Although recently many people have been complaining about their work-life balance, studies show that the amount of free time we have has been rising continuously for over 50 years. More people are playing sport on a regular basis nowadays and young people are taking up traditional style hobbies such as knitting and walking in the countryside. There has also been a large amount of government investment in leisure facilities in local communities, which has assisted the uptake of hobbies for a range of people including children and the elderly. A few years ago, visitors to a local park would see people who were playing football or walking their dogs. However, nowadays people are using the gym or a climbing wall as their way of sporting recreation.
+
+Overall, the number of people who buy one of the three major daily newspapers in the US has been increasing since the 1950s. The largest increase in readership has been for the New York Times. However, most people are still buying the Washington Post more than any other daily newspaper.
+
+The graph shows the number of people who were viewing four different television channels on 30 June 2011 at 8.00 in the evening. Almost half the viewers were watching BBC1 and the remaining 50 percent were divided more or less equally between the other three channles.
+
+> Tip 👀 When describing visual information, it is important to think about what tenses you will need. If the diagram includes time references (dates,years) you will need a range of past and present tenses. If the graph has no past time reference, you will need to use present simple tense only.
 >
